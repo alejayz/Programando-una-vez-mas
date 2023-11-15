@@ -1,5 +1,5 @@
 # Programando-una-vez-mas
-En este repo la idea es solucionar el reto número 4:
+En este repo se pretende dar solución al reto número 3 de la clase de programación:
 
 **1.** Plantear el algoritmo para obtener los números primos hasta n, usando pseudocódigo y diagramas de flujo.
 
